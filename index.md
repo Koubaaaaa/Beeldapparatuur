@@ -3,13 +3,13 @@
 ## Beeldschermen
 
 ### Synoniemen
-- **Verversingsfrequentie** → `*Refresh rate*`
-- **CCFL** → `*Cold Cathode Fluorescent Lamp*`
-- **Dot pitch** → `*Pixelafstand*`
-- **Helderheidsgraad** → `*Brightness*`
-- **Contrastverhouding** → `*Contrast ratio*`
-- **Response time** → `*Reactietijd*`
-- **Optimale resolutie** → `*Native resolution*`
+- **Verversingsfrequentie** → `Refresh rate`
+- **CCFL** → `Cold Cathode Fluorescent Lamp`
+- **Dot pitch** → `Pixelafstand`
+- **Helderheidsgraad** → `Brightness`
+- **Contrastverhouding** → `Contrast ratio`
+- **Response time** → `Reactietijd`
+- **Optimale resolutie** → `Native resolution`
 
 ### Verklaringen
 - **Dode pixel-garantie**: `bepaalt hoeveel defecte pixels acceptabel zijn voordat een scherm wordt vervangen.`
@@ -19,9 +19,9 @@
 - **Kijkhoek**: `de maximale hoek waarbij de beeldkwaliteit behouden blijft.`
 
 ### Afkortingen voluit geschreven
-- **AMOLED** → `*Active Matrix Organic Light Emitting Diode*`
-- **TFT** → `*Thin Film Transistor*`
-- **CRT** → `*Cathode Ray Tube*`
+- **AMOLED** → `Active Matrix Organic Light Emitting Diode`
+- **TFT** → `Thin Film Transistor`
+- **CRT** → `Cathode Ray Tube`
 
 ### Waar of Onwaar
 - ✅ **Waar**   - `CRT-beeldschermen waren gevoelig voor slijtage.`
@@ -46,9 +46,9 @@
 ## Dataprojectoren
 
 ### Types met dure lamp en beperkte levensduur
-1. **DLP** → `*Digital Light Processing*`
-2. **LCD** → `*Liquid Crystal Display*`
-3. **LCoS** → `*Liquid Crystal on Silicon*`
+1. **DLP** → `Digital Light Processing`
+2. **LCD** → `Liquid Crystal Display`
+3. **LCoS** → `Liquid Crystal on Silicon`
 
 ### Type dataprojector per beschrijving
 - **DLP-projector**: `vooral gebruikt in professionele toepassingen vanwege hoge kosten.`
