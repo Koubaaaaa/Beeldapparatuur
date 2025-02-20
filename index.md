@@ -1,60 +1,107 @@
 # Samenvatting Beeldapparatuur
 
-## Beeldschermen
+## OLED (Organic Light-Emitting Diode)
 
-### Synoniemen
-- **Verversingsfrequentie** → `Refresh rate`
-- **CCFL** → `Cold Cathode Fluorescent Lamp`
-- **Dot pitch** → `Pixelafstand`
-- **Helderheidsgraad** → `Brightness`
-- **Contrastverhouding** → `Contrast ratio`
-- **Response time** → `Reactietijd`
-- **Optimale resolutie** → `Native resolution`
+### Toepassingen
+- Smartphones
+- High-end televisies
+- Smartwatches
+- VR-brillen
 
-### Verklaringen
-- **Dode pixel-garantie**: `bepaalt hoeveel defecte pixels acceptabel zijn voordat een scherm wordt vervangen.`
-- **Response time**: `de tijd die een pixel nodig heeft om van kleur te veranderen.`
-- **Contrastverhouding**: `verschil tussen het helderste wit en het donkerste zwart.`
-- **Dot pitch**: `afstand tussen het midden van twee aangrenzende pixels.`
-- **Kijkhoek**: `de maximale hoek waarbij de beeldkwaliteit behouden blijft.`
+### Werking
+- OLED-schermen gebruiken organische verbindingen die zelf licht geven zonder achtergrondverlichting.
+- Pixels kunnen individueel in- en uitgeschakeld worden, wat zorgt voor diepe zwartwaarden en hoog contrast.
 
-### Afkortingen voluit geschreven
-- **AMOLED** → `Active Matrix Organic Light Emitting Diode`
-- **TFT** → `Thin Film Transistor`
-- **CRT** → `Cathode Ray Tube`
+### Voordelen
+- Diepe zwartwaarden en hoge contrasten
+- Snelle reactietijden
+- Flexibel en dun ontwerp (geschikt voor buigbare schermen)
 
-### Waar of Onwaar
-- ✅ **Waar**   - `CRT-beeldschermen waren gevoelig voor slijtage.`
-- ✅ **Waar**   - `De pivot-functie laat toe het scherm een kwartslag te draaien.`
-- ❌ **Onwaar** - `De frequentie waarmee een beeld wordt ververst, noemt men de reactietijd.`
-- ❌ **Onwaar** - `Bij OLED-schermen is backlight noodzakelijk.`
-- ❌ **Onwaar** - `TFT-schermen hebben een elektronenstraalbuis.`
+### Nadelen
+- Kans op inbranden (burn-in) bij statische beelden
+- Duurder dan LCD-technologieën
 
 ---
 
-## Aanraakschermen
+## CRT (Cathode Ray Tube)
 
-### Type aanraakscherm
-- **Capacitief scherm**: `aanraakgevoeligheid geïntegreerd in het scherm.`
-- **Akoestisch scherm**: `geluidsgolven worden geabsorbeerd bij aanraking.`
-- **Resistief scherm**: `elektrostatische lading beïnvloed door aanraking.`
-- **Resistief scherm**: `drukgevoelig scherm.`
-- **Infrarood scherm**: `lichtsignalen worden onderbroken bij aanraking.`
+### Toepassingen
+- Oude computermonitoren
+- Televisies
+- Arcade-kasten
+- Oscilloscopen
+
+### Werking
+- Elektronenkanon schiet elektronen op een fosforlaag die licht geeft.
+- Beeld wordt continu ververst door de elektronenstraal, wat bewegende beelden mogelijk maakt.
+
+### Voordelen
+- Zeer goede kleurweergave en diepe zwartwaarden
+- Geen kijkhoekproblemen
+- Lage input-lag en hoge verversingssnelheid (retro gaming)
+
+### Nadelen
+- Groot en zwaar
+- Hoog energieverbruik
+- Lagere resoluties dan moderne schermen
 
 ---
 
-## Dataprojectoren
+## TFT (Thin-Film Transistor, een type LCD-scherm)
 
-### Types met dure lamp en beperkte levensduur
-1. **DLP** → `Digital Light Processing`
-2. **LCD** → `Liquid Crystal Display`
-3. **LCoS** → `Liquid Crystal on Silicon`
+### Toepassingen
+- Laptopschermen
+- Computermonitoren
+- Budget smartphones
+- Embedded systemen
 
-### Type dataprojector per beschrijving
-- **DLP-projector**: `vooral gebruikt in professionele toepassingen vanwege hoge kosten.`
-- **Pico-projector**: `klein en licht, vergelijkbaar met een mobiele harde schijf.`
+### Werking
+- TFT is een variant van LCD die transistors gebruikt voor snelle pixelsturing.
+- Vereist achtergrondverlichting (zoals CCFL of LED).
 
-### Verklaringen
-- **Keystone correction**: `functie die beeldvervorming corrigeert bij een scheef geplaatste projector.`
-- **Brandpuntafstand**: `afstand tussen de lens en het punt waar het licht samenkomt voor een scherp beeld.`
+### Voordelen
+- Compact en lichtgewicht
+- Lagere energieconsumptie
+- Hogere resoluties en helderheid
+
+### Nadelen
+- Minder goede kijkhoeken en kleurweergave dan OLED of CRT
+- Trager in reactietijd
+
+---
+
+## LCD (Liquid Crystal Display)
+
+### Toepassingen
+- Budget smartphones
+- Laptops en monitoren
+- Televisies
+- Gameconsoles en draagbare apparaten
+
+### Werking
+- Vloeibare kristallen moduleren licht vanuit achtergrondverlichting.
+- RGB-subpixels mengen licht om kleuren te vormen.
+
+### Voordelen
+- Dun en licht ontwerp
+- Laag energieverbruik
+- Hoge resoluties mogelijk (Full HD, 4K, 8K)
+- Geen risico op burn-in
+
+### Nadelen
+- Beperkte zwartwaarden
+- Kijkhoekproblemen bij goedkopere modellen
+- Langzamere reactietijd dan OLED
+
+---
+
+## Keystone Correction
+
+### Wat is het?
+- Technologie voor projectoren om trapeziumvormige vervorming te corrigeren.
+
+### Werking
+- Past het beeld digitaal aan zonder de projector fysiek te verplaatsen.
+- Ondersteunt verticale en horizontale correctie.
+- Kan lichte kwaliteitsvermindering veroorzaken door pixelherberekening.
 
